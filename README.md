@@ -136,5 +136,5 @@ O projeto está em desenvolvimento ativo. Novas funcionalidades e melhorias são
 ---
 
 <div align="center">
-  Feito com ❤️ por João Pedro
+  Feito com  por João Pedro
 </div>
